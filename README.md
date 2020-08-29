@@ -4,4 +4,5 @@ I like to solve programming puzzles, math puzzles and also various coding challe
 I wrote a website in which I put some of my coding challenges, take a look! :sunglasses: [AF . LABS ](https://afmika.herokuapp.com/)   
 
 
-![afmika's github stats](https://github-readme-stats.vercel.app/api?username=afmika&show_icons=true&theme=radical&count_private=true)
+![afmika's github stats](https://github-readme-stats.vercel.app/api?username=afmika&show_icons=true&theme=radical&count_private=true)|[![afmika's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afmika&show_icons=true&layout=compact&hide=css,html)](https://github.com/afmika) 
+
