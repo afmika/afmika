@@ -1,7 +1,5 @@
 ![image](https://github.com/user-attachments/assets/bd441fb8-443a-4176-a8fd-445772a609ca)
 
-(Actually surprised how hilarious it came)
-
 👋😅 **Hello, fellow GitHub traveler!** Welcome to my incredibly original and totally unique GitHub profile! 🎉✨
 
 I'm [Your Name] - a **developer**, **enthusiast**, and **coffee addict** ☕️💻. Coding is my passion, and I love to create and innovate! (Wow, groundbreaking stuff, right? 🙄)
@@ -32,7 +30,8 @@ I'm [Your Name] - a **developer**, **enthusiast**, and **coffee addict** ☕️�
 - Collaborators on cool projects 🌟 (and by cool, I mean anything that keeps me from being bored)
 
 
-==========
-More seriously though, this is a mirror account.
+(Actually surprised at how hilarious it came out)
+
+## On a more practical note, this is a mirror account.
 
 
