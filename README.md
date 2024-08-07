@@ -22,9 +22,6 @@ I'm [Your Name] - a **developer**, **enthusiast**, and **coffee addict** ☕️�
 
 📫 **How to reach me:**
 - **Email**: [your email] 📧 (because who doesn’t love spam?)
-
-==========
-More seriously though, this is a mirror account.
 - **Twitter**: @yourhandle 🐦 (where I pretend to be interesting)
 
 🤖 **Fun projects:**
@@ -33,4 +30,9 @@ More seriously though, this is a mirror account.
 
 🔍 **Always looking for:**
 - Collaborators on cool projects 🌟 (and by cool, I mean anything that keeps me from being bored)
+
+
+==========
+More seriously though, this is a mirror account.
+
 
