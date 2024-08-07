@@ -1,5 +1,6 @@
 ![image](https://github.com/user-attachments/assets/bd441fb8-443a-4176-a8fd-445772a609ca)
 
+(Actually surprised how hilarious it came)
 
 👋😅 **Hello, fellow GitHub traveler!** Welcome to my incredibly original and totally unique GitHub profile! 🎉✨
 
